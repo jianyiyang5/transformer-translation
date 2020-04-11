@@ -10,3 +10,6 @@ Install and extract the english-frech dataset from http://www.manythings.org/ank
 
 # Inference
 Run translate-sentence.py, which uses the transformer.pth model in /output. 
+
+# Bug fix
+fr data not found issue: https://github.com/hamelsmu/Seq2Seq_Tutorial/issues/1
